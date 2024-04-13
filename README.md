@@ -1,10 +1,10 @@
-## encrypt_decrypt_msg
+# encrypt_decrypt_msg
 
-# dependencies 
+## dependencies 
 ```
     Tkinter:latest
 ```
-# start
+## start
 ```
     python3 gui.py
 ```
